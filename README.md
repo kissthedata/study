@@ -1,6 +1,6 @@
 # STUDY
 
-> 매주 금요일 정기 회의 📝
+> Regular meeting every Friday📝
   * AM 11:00~
-  * 비대면 
+  * non-face-to-face 
   * Google Meeting
