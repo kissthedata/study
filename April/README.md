@@ -1,6 +1,6 @@
-# 4.29
+# 회의록
 
-회의
+4.29
 
 * Git 명령어, 문법 정리
 * Github를 통해서 Code Share/ notebook sharing
