@@ -1,10 +1,10 @@
-# 회의록
+# meeting log
 
-4.29
+22.04.29
 
-* Git 명령어, 문법 정리
-* Github를 통해서 Code Share/ notebook sharing
-    * Git push, pull
-* 5월 2일 Dacon Basic Competition 
-    * 1주 차  EDA, Modeling
-    * 2주 차 leader board focusing 
+* Git command
+* discuss how to handle Code/notebook on github
+    * We must understand '''Git push''', '''git pull'''
+* May 2th Dacon Basic Competition open
+    * 1 Week : EDA, Modeling
+    * 2 Week : Focus on increase leader board score
