@@ -1,6 +1,6 @@
 # meeting log
 
-22.04.29
+> 22.04.29
 
 * Git command
 * discuss how to handle Code/notebook on github
