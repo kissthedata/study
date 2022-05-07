@@ -1,5 +1,5 @@
-![https://y26uq11r8xr1zyp0d3inciqv-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/35-1.jpg![image](https://user-images.githubusercontent.com/96707384/167231429-cda848ac-03b7-416d-975c-0ffe1461cf84.png]()
-)
+![<img width="1003" alt="image" src="https://user-images.githubusercontent.com/96707384/167232120-ff35ec88-11e8-4bdf-ae2f-889bcdee2265.png">
+]()
 
 # STUDY
 
