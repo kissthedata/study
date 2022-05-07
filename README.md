@@ -1,4 +1,4 @@
-<img width="1440" alt="스크린샷 2022-05-06 오후 8 29 46" src="https://user-images.githubusercontent.com/96707384/167232150-8172a975-f9ee-45ab-9053-e5b5eb4074d4.png">
+<img width="905" alt="스크린샷 2022-05-07 오전 10 16 06" src="https://user-images.githubusercontent.com/96707384/167232183-f505ccdf-de42-4bb0-9cdf-a0f8a87ba756.png">
 
 
 # STUDY
