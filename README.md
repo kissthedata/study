@@ -16,11 +16,10 @@
 **Communicate with each other**
 
 # Information
-* Competition Platform
-[All-CON](https://www.all-con.co.kr/)
-[AI-Factory](http://aifactory.space/competition)
-[Contest-KOREA](https://www.contestkorea.com/)
+> Competition Platform
+ * [All-CON](https://www.all-con.co.kr/)
+ * [AI-Factory](http://aifactory.space/competition)
+ * [Contest-KOREA](https://www.contestkorea.com/)
 
-* [Datasets](https://datasetsearch.research.google.com/)
-
-* [K-ICT Conference, Seminar](https://kbig.kr/portal/kbig/knowledge/notice.page)
+> Conference & Seminar
+* [K-ICT Conference](https://kbig.kr/portal/kbig/knowledge/notice.page)
