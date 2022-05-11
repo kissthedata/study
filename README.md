@@ -7,3 +7,20 @@
   * AM 11:00~
   * non-face-to-face
   * Google Meeting
+
+# GOAL
+1. Korea idea competition
+2. Kaggle, Dacon competition
+
+# Rule
+**Communicate with each other**
+
+# Information
+* Competition Platform
+[All-CON](https://www.all-con.co.kr/)
+[AI-Factory](http://aifactory.space/competition)
+[Contest-KOREA](https://www.contestkorea.com/)
+
+* [Datasets](https://datasetsearch.research.google.com/)
+
+* [K-ICT Conference, Seminar](https://kbig.kr/portal/kbig/knowledge/notice.page)
