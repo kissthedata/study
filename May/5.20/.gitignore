@@ -1,1 +1,4 @@
 /catboost_info
+.DS_Store
+*.log
+/.ipynb_checkpoints
