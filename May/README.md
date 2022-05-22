@@ -10,4 +10,5 @@
 # 5.20
 * Handling Data(EDA, Feature Engineering, Making Model Baseline Using Lightgbm/Catboost) 
   * Kaggle datasets (Prediction Credit Status- Classification 
- 
+    * ```diff
+      ! 🥶 problem : Serious Unbalanced Dataset, It is difficult to define good and bad users for redemption. 
