@@ -1,3 +1,10 @@
+# 6.11
+* Narrative Memo (10m)
+  * Read Data Analysis
+* Make PCA, Clustering (K-means)
+* Next kaggle Datasets (Preprocessing, EDA, Modeling, Voting, Stacking..)
+  * https://www.kaggle.com/datasets/dipam7/student-grade-prediction
+
 # 6.3
 * Narrative Memo (10m)
     * Read data Analysis
