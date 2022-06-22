@@ -1,3 +1,8 @@
+# 6.18
+* Prediction student Score
+  * modeling, stacking, voting... 
+* one more week
+
 # 6.11
 * Narrative Memo (10m)
   * Read Data Analysis
